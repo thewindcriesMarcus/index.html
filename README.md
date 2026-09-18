@@ -5,7 +5,7 @@
   <title>Marcus Cromie— Games Development</title>
 </head>
 <body>
-  <h1>James Bell</h1>
+  <h1>Marcus Cromie</h1>
   <p>Games Development student at Belfast Met. Portfolio going up shortly.</p>
 </body>
 </html>
