@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>James Bell — Games Development</title>
+  <title>Marcus Cromie— Games Development</title>
 </head>
 <body>
   <h1>James Bell</h1>
